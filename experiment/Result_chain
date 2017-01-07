@@ -1,0 +1,47 @@
+../data/FB15k/entity2id.txt
+../data/FB15k/relation2id.txt
+../data/FB15k/train.txt
+read data from ./FB15k_1/relation2vec-50-2.unif
+number of relation is 1345
+number of entities is 14951
+number of fb_l is 59071
+read embeddings done!
+length of embeddings is 50
+chain test samples are:	675
+chain:	28.6104	0.795556	28.2044	0.798519
+-50-2
+../data/FB15k/entity2id.txt
+../data/FB15k/relation2id.txt
+../data/FB15k/train_new_2.txt
+read data from ./FB15k_2/relation2vec-50-2.unif
+number of relation is 1345
+number of entities is 14951
+number of fb_l is 59071
+read embeddings done!
+length of embeddings is 50
+chain test samples are:	675
+chain:	6.5437	0.848889	6.13778	0.868148
+-50-2
+../data/FB15k/entity2id.txt
+../data/FB15k/relation2id.txt
+../data/FB15k/train_new_5.txt
+read data from ./FB15k_5/relation2vec-50-2.unif
+number of relation is 1345
+number of entities is 14951
+number of fb_l is 59071
+read embeddings done!
+length of embeddings is 50
+chain test samples are:	675
+chain:	4.94815	0.903704	4.54222	0.90963
+-50-2
+../data/FB15k/entity2id.txt
+../data/FB15k/relation2id.txt
+../data/FB15k/train_new_8.txt
+read data from ./FB15k_8/relation2vec-50-2.unif
+number of relation is 1345
+number of entities is 14951
+number of fb_l is 59071
+read embeddings done!
+length of embeddings is 50
+chain test samples are:	675
+chain:	6.06519	0.863704	5.65926	0.877037

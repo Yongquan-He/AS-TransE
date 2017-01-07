@@ -1,0 +1,39 @@
+read data from ./FB15k_2/relation2vec-50-1.unif
+number of relation is 1345
+number of entities is 14951
+number of fb_l is 59071
+read embeddings done!
+length of embeddings is 50
+59071
+left:243.875	0.355234	56.8951	0.644123
+right:151.042	0.426013	48.9075	0.670261
+-50-1
+../data/FB15k/entity2id.txt
+../data/FB15k/relation2id.txt
+../data/FB15k/train_new_5.txt
+read data from ./FB15k_5/relation2vec-50-1.unif
+number of relation is 1345
+number of entities is 14951
+number of fb_l is 59071
+read embeddings done!
+length of embeddings is 50
+59071
+left:353.462	0.38364	68.2784	0.607845
+right:196.742	0.458888	72.1832	0.635456
+-50-1
+../data/FB15k/entity2id.txt
+../data/FB15k/relation2id.txt
+../data/FB15k/train_new_8.txt
+read data from ./FB15k_8/relation2vec-50-1.unif
+number of relation is 1345
+number of entities is 14951
+number of fb_l is 59071
+read embeddings done!
+length of embeddings is 50
+59071
+left:271.23	0.387551	73.721	0.597484
+right:163.596	0.46246	61.0906	0.625654
+-50-1
+../data/FB15k/entity2id.txt
+../data/FB15k/relation2id.txt
+../data/FB15k/train.txt

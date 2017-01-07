@@ -1,0 +1,48 @@
+-50-2
+../data/FB15k
+../data/FB15k/valid.txt
+read data from ./FB15k_1/relation2vec-50-2.unif
+number of relation is 1345
+number of entities is 14951
+number of fb_l is 59071
+read embeddings done!
+length of embeddings is 50
+关系个数为1345
+inverse test samples are:	491
+inverse:	71.1976	0.509165	70.7312	0.645621
+-50-2
+../data/FB15k
+../data/FB15k/valid.txt
+read data from ./FB15k_2/relation2vec-50-2.unif
+number of relation is 1345
+number of entities is 14951
+number of fb_l is 59071
+read embeddings done!
+length of embeddings is 50
+关系个数为1345
+inverse test samples are:	491
+inverse:	42.0102	0.517312	41.5438	0.661914
+-50-2
+../data/FB15k
+../data/FB15k/valid.txt
+read data from ./FB15k_5/relation2vec-50-2.unif
+number of relation is 1345
+number of entities is 14951
+number of fb_l is 59071
+read embeddings done!
+length of embeddings is 50
+关系个数为1345
+inverse test samples are:	491
+inverse:	49.9633	0.515275	49.4969	0.663951
+-50-2
+../data/FB15k
+../data/FB15k/valid.txt
+read data from ./FB15k_8/relation2vec-50-2.unif
+number of relation is 1345
+number of entities is 14951
+number of fb_l is 59071
+read embeddings done!
+length of embeddings is 50
+关系个数为1345
+inverse test samples are:	491
+inverse:	50.4644	0.523422	49.998	0.665988
